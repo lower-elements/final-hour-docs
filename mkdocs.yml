@@ -1,0 +1,14 @@
+site_name: Final Hour Documentation
+site_author: eagle_eyed<blind.lightning.productions@gmail.com>
+site_description: the documentation for the final hour audio game, an audio FPS inspired by Call of Duty Zombies. 
+site_url: https://finalhour.lowerelements.club/docs
+nav:
+  - Home: index.md
+  - Gameplay:
+    - Chapter 1 - configuring the game and getting connected: gameplay/chapter1.md
+  - Map Building:
+    - introduction: building/index.md
+    - chapter1 - syntax: building/chapter1.md
+    - chapter2 - the map element: building/chapter2.md
+    - chapter3 - platforms: building/chapter3.md
+  - Credits: credits.md
