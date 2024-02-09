@@ -5,6 +5,9 @@ site_url: https://finalhour.lowerelements.club/docs
 nav:
   - Home: index.md
   - Gameplay:
+    - User interface:
+      - Menus: gameplay/ui/menu.md
+      - Text dialogs: gameplay/ui/text_dialog.md
     - Chapter 1 - configuring the game and getting connected: gameplay/chapter1.md
   - Map Building:
     - introduction: building/index.md
