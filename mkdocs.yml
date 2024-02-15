@@ -19,3 +19,4 @@ nav:
     - chapter2 - the map element: building/chapter2.md
     - chapter3 - platforms: building/chapter3.md
   - Credits: credits.md
+  - The Log querying language (usable by moderators only): log_queries.md
