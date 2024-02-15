@@ -10,6 +10,7 @@ nav:
       - Text dialogs: gameplay/ui/text_dialog.md
     - Chapter 1 - configuring the game and getting connected: gameplay/chapter1.md
     - Chapter 2 - Navigating the map: gameplay/chapter2.md
+    - Chapter 3 - Weapons: gameplay/chapter3.md
     - User interface:
       - Menus: gameplay/ui/menu.md
   - Map Building:
