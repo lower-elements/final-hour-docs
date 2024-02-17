@@ -21,7 +21,7 @@ Normal zombies are relatively weak in both health and attack. But they get much 
 
 
 ## 4.1.2. Hell Hounds
-Hell Hounds are so dangerous that they warrent their own round dedicated to them. Every 3 rounds there is a possibiliy of it being a hell hound round. A special round sound is played to indicate this. 
+Hell Hounds are so dangerous that they warrent their own round dedicated to them. Every 3 rounds there is a possibility of it being a hell hound round. A special round sound is played to indicate this. 
 
 No normal zombies spawn on these rounds, only as many hell hounds as there are players. 
 Hell hounds have a long reach and will take away most of your health in 1 hit. 

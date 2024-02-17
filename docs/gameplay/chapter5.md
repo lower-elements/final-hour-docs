@@ -1,7 +1,7 @@
 # 5. Powerups
 You can get too kinds of power ups in Final hour, short term and long term.  
 
-Short term powerups are instantanius where as long terms powerups generally last for about 30 seconds.
+Short term powerups are instantanius where as long term powerups generally last for about 30 seconds.
 
 ## 5.1. Max ammo
 Max ammo is fairely self explanitory. Your weapons are refilled with ammo and you're given a full reserve.
