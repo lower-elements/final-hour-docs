@@ -13,10 +13,6 @@ nav:
     - Chapter 3 - Weapons: gameplay/chapter3.md
     - User interface:
       - Menus: gameplay/ui/menu.md
-  - Map Building:
-    - introduction: building/index.md
-    - chapter1 - syntax: building/chapter1.md
-    - chapter2 - the map element: building/chapter2.md
-    - chapter3 - platforms: building/chapter3.md
+  - Map building: xml_map_syntax.md
   - Credits: credits.md
   - The Log querying language (usable by moderators only): log_queries.md
