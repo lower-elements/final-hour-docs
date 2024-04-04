@@ -1,5 +1,5 @@
 # 1. Configuring the game and getting connected
-This chapter will guide you through the offline process of setting up the game and creating an account.
+This chapter will guide you through the process of setting up the game and creating an account.
 If you have sight, the games text is printed to the screen, however otherwise you will need 
 
  - A SAPI voice you are comfortable with, NVDA or JAWS (if you are on windows, no installed software is needed for linux or macOS)
@@ -59,15 +59,16 @@ Relative time is how long ago a buffer item was received by the client whereas a
 
 
 ### Set which Head-related Transform Function Model you would like to use. 
-Head-Related Transform function (HRTF) is a method of creating more realistic sounding 3d audio. We current previde 3 models and the option to disable HRTF entirely.
+Head-Related Transform function (HRTF) is a method of creating more realistic sounding 3d audio. We currently previde 3 models and the option to disable HRTF entirely.
 
-Some people prefer it to OpenAL's (our audio library's) default 3d audio and some people much prefer it. 
+Some people prefer it to OpenAL's (our audio library's) default 3d audio and some people much prefer openAL's default. 
 
 Each model has suttle differences and we recommend trying a few games on different models once you've settled into the game a bit so you can find which works best for you. 
 
 
 ### edit location template
-This i will leave for a later part of the documentation as this deserves its own chapter, for now leave this as it is. 
+This i will leave for a later part of the documentation as this deserves its own chapter. For now, leave this as it is. 
 
 ### configure key bindings
 This opens a menu of different actions in the game. If you select one of these options, you can press a key and the game will use it for that action from now on.
+Note: At the moment there is a bug where the key config menu does not update when you set key binds. So if it looks like your configuration is not updating, that is why.

@@ -32,3 +32,15 @@ You can also use control+S to rotate by 180 degrees as well as control+W to rese
 In order to climbe up and down ladders or staircases, you can use the page up and down keys. 
 You can test these out at the east side of the main lobby map in the north and south corners. 
 
+
+## 4.3. Extra details
+In order to find your location, you can press your location key (C by default). This will list off a  lot of information, so consider visiting the location template chapter to configure it to your liking.
+
+You can also press the V key to read out your zone which is a text description added by builders and is incredibly helpful in finding where you are.
+
+
+We also have the player radar which tells you if players are within a 5 tile radius of you, press the radar key (Y by default) to see who's nearbye.
+
+
+## 4.4. The Sonar
+The sonar is toggeled with the f4 key. It alerts you to walls, gaps and air. The sounds take some getting used to,  so explore a little bit with it on.
